@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Harith</h1>
+<h2 align="center">Hi 👋 I'm Harith</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
 <h3 align="left">Languages and Tools:</h3>
