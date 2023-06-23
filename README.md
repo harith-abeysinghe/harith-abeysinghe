@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Harith</h1>
+<h1 align="center">Hi 👋 I'm Harith</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harith-abeysinghe&label=Profile%20views&color=0e75b6&style=flat" alt="harith-abeysinghe" /> </p>
