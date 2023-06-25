@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Hi 👋 I'm Harith</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
- <!--<p align="center">
-  <img src="https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/coding.gif" alt="GIF">
-</p>-->
+ <p align="center">
+  <img src="[https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/coding.gif](https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/sb-blog-programming.png)" alt="GIF">
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
