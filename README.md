@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
 </p>
+<a href="https://github.com/harith-abeysinghe">
+  <img src="https://img.shields.io/github/followers/thaiane?label=follow&style=social" alt="GitHub" />
+</a>
+
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harith-abeysinghe&label=Profile%20Views&color=0056b3&style=flat-square" alt="harith-abeysinghe" /> </p>
 
