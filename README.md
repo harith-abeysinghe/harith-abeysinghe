@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  <p align="center">
   <img src="https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/sb-blog-programming.png" alt="IMG">
 </p>
-![](https://komarev.com/ghpvc/?username=harith-abeysinghe&color=green)
+![visiter](https://komarev.com/ghpvc/?username=harith-abeysinghe&color=green)
 
 
 <h3 align="left">Languages and Tools:</h3>
