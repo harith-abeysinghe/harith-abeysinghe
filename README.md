@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  <p align="center">
   <img src="https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/sb-blog-programming.png" alt="IMG">
 </p>
-<center><img src="https://visitor-badge.feriirawann.repl.co?username=harith-abeysinghe&repo=harith-abeysinghe" alt="Visitor Badge" /></center>
+<center><img src="https://visitor-badge.feriirawann.repl.co?username=harith-abeysinghe&repo=harith-abeysinghe&style=for-the-badge" alt="Visitor Badge" /></center>
 
 
 <h3 align="left">Languages and Tools:</h3>
