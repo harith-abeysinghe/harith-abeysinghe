@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
 </p>
  
-<img align="center" src="https://visitor-badge.feriirawann.repl.co?username=harith-abeysinghe&repo=harith-abeysinghe&style=for-the-badge" alt="Visitor Badge" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harith-abeysinghe&label=Profile%20Views&color=0056b3&style=flat-square" alt="harith-abeysinghe" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
