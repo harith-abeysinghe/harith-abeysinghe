@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/harith-abeysinghe">
-  <img src="https://img.shields.io/github/followers/thaiane?label=follow&style=social" alt="GitHub" />
+  <img src="https://img.shields.io/github/followers/harith-abeysinghe?label=follow&style=social" alt="GitHub" />
 </a>
 
  
