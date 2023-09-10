@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Hi 👋 I'm Harith</h1>
 <h4 align="center">Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
- <p align="center">
-  <img src="https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/sb-blog-programming.png" alt="IMG">
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-abeysinghe-0605651b1) 
 <img align="center" src="https://visitor-badge.feriirawann.repl.co?username=harith-abeysinghe&repo=harith-abeysinghe&style=for-the-badge" alt="Visitor Badge" />
 
 
