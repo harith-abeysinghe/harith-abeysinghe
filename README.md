@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi 👋 I'm Harith</h1>
-<h3 align="center">Computer Engineering Undergraduate</h3>
+<h4>Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
  <p align="center">
   <img src="https://github.com/harith-abeysinghe/harith-abeysinghe/blob/main/sb-blog-programming.png" alt="IMG">
 </p>
