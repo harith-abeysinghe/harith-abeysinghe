@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
  </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harith-abeysinghe&show_icons=true&theme=dracula&locale=en&layout=compact" alt="harith-abeysinghe" /></p>
 
 
 
