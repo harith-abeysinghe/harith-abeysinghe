@@ -80,7 +80,7 @@ Here are some ideas to get you started:
  </p>
 
 
-
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harith-abeysinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="harith-abeysinghe" /></p>
 
 
 
