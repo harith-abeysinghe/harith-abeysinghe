@@ -33,22 +33,22 @@ Here are some ideas to get you started:
 
 ---
 <div align="center">
-  <h2>🔧 Ongoing Projects 🛠️</h2>
+  <h2>🔧 Ongoing Projects 🔧</h2>
 
-  <h3>📚 Acedemic Projects 🎓</h3>
+  <h3>🎓 Acedemic Projects 🎓</h3>
   <p>
     <ul>
-      <li>🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em> 🧠</li>
-      <li>🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em> 💻</li>
-      <li>💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em> 🌊</li>
+      <li>🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em></li>
+      <li>🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em></li>
+      <li>💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em></li>
     </ul>
   </p>
 
-  <h3>🚀 Personal Projects 🎮</h3>
+  <h3>🚀 Personal Projects 🚀</h3>
   <p>
     <ul>
-      <li>📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em> 🌐</li>
-      <li>📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em> 📚</li>
+      <li>📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></li>
+      <li>📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></li>
     </ul>
   </p>
 </div>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ---
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
