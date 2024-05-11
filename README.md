@@ -46,9 +46,9 @@ Here are some ideas to get you started:
   <h3>🚀 Personal Projects 🚀</h3>
   <p>
     <ul>
-      <li>📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></li>
-      <li>📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></li>
-    </ul>
+📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></br>
+📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></br>
+
   </p>
 </div>
 
