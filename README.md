@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 
  </p>
 
-[![Harith's GitHub stats](https://github-readme-stats.vercel.app/api?username=harith-abeysinghe&theme=transparent&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/harith-abeysinghe" style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=harith-abeysinghe&theme=transparent&show_icons=true&hide_rank=true" alt="Harith's GitHub stats">
+</a>
+
 <p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harith-abeysinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="harith-abeysinghe" /></p>
 
 
