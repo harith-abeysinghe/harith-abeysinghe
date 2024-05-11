@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
 <br>
 <h3 align="center">Ongoing Projects 🛠️</h3>
+- 🔭 I’m currently working on
 <center>
 <h3 align="center">Acedemic Projects</h3>
 <p align="center">
