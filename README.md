@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋 I'm Harith</h2>
 <h4 align="center">Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
 <!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
+
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
+
 ---
 <h3 align="center">Ongoing Projects 🛠️</h3>
 
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harith-abeysinghe&label=Profile%20Views&color=0056b3&style=flat-square" alt="harith-abeysinghe" /> </p>
 
 
+---
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -104,6 +107,9 @@ Here are some ideas to get you started:
 </a> 
 
  </p>
+
+---
+ 
 <p><a href="https://github.com/harith-abeysinghe" style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api?username=harith-abeysinghe&theme=transparent&show_icons=true&hide_rank=true" alt="Harith's GitHub stats"></a><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harith-abeysinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="harith-abeysinghe" /></p>
 
 
