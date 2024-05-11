@@ -18,6 +18,30 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
+<h2>Ongoing Projects (🛠️)</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Repo</th>
+      <th>Module Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project 1 Description</td>
+      <td><a href="Link_to_Repo">Repo</a></td>
+      <td><em>Module Name 1</em></td>
+    </tr>
+    <tr>
+      <td>Project 2 Description</td>
+      <td><a href="Link_to_Repo">Repo</a></td>
+      <td><em>Module Name 2</em></td>
+    </tr>
+    <!-- Add more rows for additional projects -->
+  </tbody>
+</table>
+
 
 
  
