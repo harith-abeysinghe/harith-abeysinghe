@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <h3 align="center">Acedemic Projects</h3>
 <ul>
     <li>Hand Tremor Detection System | <a href="">Repo</a> | <em>Machine Learning and Data Mining</em></li>
-    <li>E-Commerece Auction Website | <a href="[Link_to_Repo](https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website)">Repo</a> | <em>Software Engineering</em></li>
+    <li>E-Commerece Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em></li>
     <li>Water Quality Management System | <a href="Link_to_Repo">Repo</a> | <em>Industrial Networks</em></li>
 
 </ul>
 <h3 align="center">Personal Projects</h3>
 <ul>
     <li>YouTube Data Analytics | <a href="Link_to_Repo">Repo</a> | <em>Python, Google APIs</em></li>
-    <li>Book Store | <a href="Link_to_Repo">Repo</a> | <em>MERN Stack</em></li>
+    <li>Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></li>
     
 </ul>
 </center>
