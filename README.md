@@ -11,16 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋 I'm Harith</h1>
+<h2 align="center">Hi 👋 I'm Harith</h2>
 <h4 align="center">Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
 <!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
-<br>
+
 <h3 align="center">Ongoing Projects 🛠️</h3>
-- 🔭 I’m currently working on
+
 <center>
 <h3 align="center">Acedemic Projects</h3>
 <p align="center">
