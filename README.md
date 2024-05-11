@@ -37,12 +37,11 @@ Here are some ideas to get you started:
 
   <h3>🎓 Acedemic Projects 🎓</h3>
   <p>
-    <ul style="list-style-type: none;">
-      <li>🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em></li>
-      <li>🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em></li>
-      <li>💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em></li>
-    </ul>
-  </p>
+  🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em><br>
+  🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em><br>
+  💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em>
+</p>
+
 
   <h3>🚀 Personal Projects 🚀</h3>
   <p>
