@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 ---
 <h2 align="center">Hi 👋 I'm Harith</h2>
 <h4 align="center">Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
+<h4 align="center">Looking for an Intership</h4>
+<h4 align="center">Machine Learning Enthusiast</h4>
+<h4 align="center">Python Expert</h4>
+<h4 align="center">Game Developer</h4>
+<h4 align="center">Problem Solver</h4>
+
 <!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
 
 ---
