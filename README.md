@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
-<h3align="center">Ongoing Projects (🛠️)</h3>
+<br>
+<h3 align="center">Ongoing Projects (🛠️)</h3>
 <table>
   <thead>
     <tr>
