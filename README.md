@@ -26,32 +26,33 @@ Here are some ideas to get you started:
 <!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
 
 ---
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
 
 ---
-<h3 align="center">Ongoing Projects 🛠️</h3>
+<div align="center">
+  <h2>🔧 Ongoing Projects 🛠️</h2>
 
-<center>
-<h3 align="center">Acedemic Projects</h3>
-<p align="center">
-<ul>
-    <li>Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em></li>
-    <li>E-Commerece Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em></li>
-    <li>Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em></li>
+  <h3>📚 Acedemic Projects 🎓</h3>
+  <p>
+    <ul>
+      <li>🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em> 🧠</li>
+      <li>🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em> 💻</li>
+      <li>💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em> 🌊</li>
+    </ul>
+  </p>
 
-</ul>
-</p>
-<h3 align="center">Personal Projects</h3>
-<p align="center">
-<ul>
-    <li>YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></li>
-    <li>Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></li>
-    
-</ul>
-</p>
+  <h3>🚀 Personal Projects 🎮</h3>
+  <p>
+    <ul>
+      <li>📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em> 🌐</li>
+      <li>📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em> 📚</li>
+    </ul>
+  </p>
+</div>
+
 
 
 
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ---
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
