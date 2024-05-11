@@ -12,13 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<h2 align="center">Hi 👋 I'm Harith</h2>
-<h4 align="center">Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h4>
-<h4 align="center">Looking for an Intership</h4>
-<h4 align="center">Machine Learning Enthusiast</h4>
-<h4 align="center">Python Expert</h4>
-<h4 align="center">Game Developer</h4>
-<h4 align="center">Problem Solver</h4>
+<div align="center">
+  <h2>👨‍💻 Hi 👋 I'm Harith 👨‍💻</h2>
+  <h3>🎓 Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a> 🎓</h3>
+  <h4>🔍 Looking for an Internship 🔍</h4>
+  <h4>🤖 Machine Learning Enthusiast 🤖</h4>
+  <h4>🐍 Python Expert 🐍</h4>
+  <h4>🎮 Game Developer 🎮</h4>
+  <h4>🧩 Problem Solver 🧩</h4>
+</div>
+
 
 <!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
 
