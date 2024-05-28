@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
   <h3>🎓 Acedemic Projects 🎓</h3>
   <p>
-  🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Prediction-System">Repo</a> | <em>Machine Learning and Data Mining</em><br>
+  🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Based-Biometric-Recognition">Repo</a> | <em>Machine Learning and Data Mining</em><br>
   🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em><br>
   💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em>
 </p>
@@ -46,8 +46,9 @@ Here are some ideas to get you started:
   <h3>🚀 Personal Projects 🚀</h3>
   <p>
     <ul>
+      📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></br>
 📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></br>
-📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></br>
+
 
   </p>
 </div>
