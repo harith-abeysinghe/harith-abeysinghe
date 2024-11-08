@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h4>🤖 Machine Learning Enthusiast 🤖</h4>
   <h4>🐍 Python Expert 🐍</h4>
   <h4>🎮 Game Developer 🎮</h4>
-<!--   <h4>🧩 Problem Solver 🧩</h4> -->
+  <h4>🧩 Problem Solver 🧩</h4>
 </div>
 
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <p>
     <ul>
       📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></br>
-📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></br>
+<!-- 📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></br> -->
 
 
   </p>
