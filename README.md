@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h4>🤖 Machine Learning Enthusiast 🤖</h4>
   <h4>🐍 Python Expert 🐍</h4>
   <h4>🎮 Game Developer 🎮</h4>
-  <h4>🧩 Problem Solver 🧩</h4>
+<!--   <h4>🧩 Problem Solver 🧩</h4> -->
 </div>
 
 
