@@ -13,45 +13,43 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
-  <h2>👨‍💻 Hi 👋 I'm Harith 👨‍💻</h2>
-  <h3>🎓 Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a> 🎓</h3>
-  <h4>⚡ Full Stack Developer⚡</h4>
-  <h4>🤖 Machine Learning Enthusiast 🤖</h4>
-  <h4>🐍 Python Expert 🐍</h4>
-  <h4>🎮 Game Developer 🎮</h4>
-  <h4>🧩 Problem Solver 🧩</h4>
+  <h2>👋 Hello, I'm Harith 👨‍💻</h2>
+  <h3>🎓 Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h3>
+  <h4>🛠️ Backend Developer | 🤖 AI Researcher | ☁️ Cloud Enthusiast</h4>
 </div>
 
-
-<!--<h5 align="center"> <center><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harith-abeysinghe&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews&theme=onedark" alt="harith-abeysinghe" /></a></center> </h5>--->
-
 ---
-<h2 align="center">Connect with Me</h2>
+
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harith-abeysinghe-0605651b1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harithabeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harithabeysinghe" height="30" width="40" /></a>
-
----
-<div align="center">
-  <h2>🔧 Ongoing Projects 🔧</h2>
-
-  <h3>🎓 Acedemic Projects 🎓</h3>
-  <p>
-  🖐️ Hand Tremor Detection System | <a href="https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Based-Biometric-Recognition">Repo</a> | <em>Machine Learning and Data Mining</em><br>
-  🛒 E-Commerce Auction Website | <a href="https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website">Repo</a> | <em>Software Engineering</em><br>
-  💧 Water Quality Management System | <a href="https://github.com/cepdnaclk/e19-co326-water-quality-management-system">Repo</a> | <em>Industrial Networks</em>
+  <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/harithabeysinghe" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
 
+---
 
-  <h3>🚀 Personal Projects 🚀</h3>
-  <p>
-    <ul>
-      📚 Book Store | <a href="https://github.com/harith-abeysinghe/Book_Store_MERN">Repo</a> | <em>MERN Stack</em></br>
-<!-- 📺 YouTube Data Collector | <a href="https://github.com/harith-abeysinghe/Youtube_Data_Collector">Repo</a> | <em>Python, Google APIs</em></br> -->
-
-
-  </p>
+<div align="center">
+  <h2>🚀 Projects & Contributions</h2>
 </div>
+
+### 🎓 Academic Projects
+- 🖐️ **Hand Tremor Detection System** – *Biometric Recognition using ML*  
+  [GitHub Repo](https://github.com/harith-abeysinghe/e19-co544-Hand-Tremor-Based-Biometric-Recognition)
+  
+- 🛒 **E-Commerce Auction Website** – *Full Stack System with Auction Logic*  
+  [GitHub Repo](https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website)
+
+- 💧 **Water Quality Management System** – *Sensor Network with Analysis Tools*  
+  [GitHub Repo](https://github.com/cepdnaclk/e19-co326-water-quality-management-system)
+
+### 🧠 Research Focus (Final Year)
+- 📊 **AI-Driven Latency-Constrained Resource Scaling in Kubernetes**  
+  *(Online learning, Reinforcement Learning, and Metaheuristic Optimization)*  
+  Tools: Prometheus, OpenTelemetry, Grafana, Python, Kubernetes, Spring Boot
 
 
 
