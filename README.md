@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>👋 Hello, I'm Harith 👨‍💻</h2>
   <h3>🎓 Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h3>
-  <h4>🛠️ Backend Developer | 🤖 AI Researcher | ☁️ Cloud Enthusiast</h4>
+  <h4>🛠️ Software Engineer | 🤖 AI Enthusiast | ☁️ Cloud Enthusiast</h4>
 </div>
 
 ---
