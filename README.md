@@ -14,21 +14,41 @@ Here are some ideas to get you started:
 ---
 <div align="center">
   <h2>👋 Hello, I'm Harith 👨‍💻</h2>
-  <h3>🎓 Computer Engineering Undergraduate at <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h3>
-  <h4>🛠️ Software Engineer | 🤖 AI Enthusiast | ☁️ Cloud Enthusiast</h4>
+  <h3>🎓 Computer Engineering Graduate from <a href="https://www.pdn.ac.lk/">University of Peradeniya</a></h3>
+  <h4>🛠️ Software Engineer | 🏗️ Microservices Architect | ☁️ Cloud & DevOps Enthusiast</h4>
 </div>
 
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/harith-abeysinghe-0605651b1" target="blank">
+  <a href="https://linkedin.com/in/harith-abeysinghe" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/harith-abeysinghe" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/harithabeysinghe" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <h2>💼 Professional Experience</h2>
+</div>
+🚀 Current Role
+Software Engineer @ Information Systems Associates (Pvt.) Ltd.
+Building scalable microservices and event-driven systems
+Key Achievements:
+
+🔄 Implemented Kafka-based event-driven architecture replacing legacy ETL processes
+⚡ Optimized database queries achieving 95%+ performance improvement (5-6s → 200-300ms)
+🔒 Strengthened security across 15+ microservices, reducing vulnerabilities by 85%
+📊 Designed real-time data synchronization pipeline with <200ms latency for mission-critical operations
+
+Tech Stack: Java, Spring Boot, Apache Kafka, PostgreSQL, Docker, Kubernetes, gRPC, TypeScript, React
 
 ---
 
